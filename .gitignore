@@ -14,6 +14,7 @@
 
 # sanity
 /sanityyoutube/node_modules
+/sanityyoutube/dist
 
 # production
 /build
